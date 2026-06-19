@@ -32,6 +32,7 @@ The dashboard helps users:
 Netflix-PowerBI-Dashboard/
 │
 ├── netflix.pbix
+|__ dataset
 ├── README.md
 └── Screenshots/
 
